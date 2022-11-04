@@ -1,0 +1,20 @@
+BONOSF
+Bonos Federales
+BONEX
+Bonos Deuda Externa
+ACCION1
+Acciones Locales
+ACCION4
+Acciones en Bolsa
+DOLARES
+Compra de dolares
+PLAZO2
+Plazos Fijos
+WALL
+Acciones Wall Street
+EMERG
+Acciones en Mercados Emergentes
+BITCO1
+Compra de BitCoin
+BITCO3
+Compra de Ethereum
